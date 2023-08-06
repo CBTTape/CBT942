@@ -1,0 +1,16 @@
+2023-08-06 08:35:38.719759 - Initialized conversion of CBT942
+2023-08-06 08:35:38.834115 - Received CBT.V505.FILE942.PDS from FILE942.XMI 
+2023-08-06 08:35:38.836204 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:35:38.837424 - Found $$$VSAM.txt (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/$$$VSAM
+2023-08-06 08:35:38.838307 - Found @FILE942.txt (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/@FILE942
+2023-08-06 08:35:38.839180 - Found CLEAR.txt (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/CLEAR
+2023-08-06 08:35:38.840110 - Found CLEAR$.jcl (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/CLEAR$
+2023-08-06 08:35:38.841029 - Found CLS.jcl (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/CLS
+2023-08-06 08:35:38.841974 - Found LISTCSUM.rexx (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/LISTCSUM
+2023-08-06 08:35:38.842948 - Found LISTCSUO.rexx (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/LISTCSUO
+2023-08-06 08:35:38.843829 - Found RXDATE.rexx (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/RXDATE
+2023-08-06 08:35:38.844698 - Found VCX.rexx (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/VCX
+2023-08-06 08:35:38.845560 - Found VI.rexx (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/VI
+2023-08-06 08:35:38.846427 - Found VI#1.txt (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/VI#1
+2023-08-06 08:35:38.847321 - Found VI#1H.txt (text/plain) in CBT.V505.FILE942.PDS, moved to PDS/VI#1H
+2023-08-06 08:35:38.847331 - Found VSAM.bin containing application/octet-stream, moved to PDS/VSAM
