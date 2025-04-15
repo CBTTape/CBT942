@@ -1,15 +1,15 @@
-2025-04-15 06:57:47.243189 - Received CBT.V508.FILE942.PDS from FILE942.XMI 
-2025-04-15 06:57:47.244628 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/$$$#DATE
-2025-04-15 06:57:47.244785 - Found $$$VSAM.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/$$$VSAM
-2025-04-15 06:57:47.244956 - Found @FILE942.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/@FILE942
-2025-04-15 06:57:47.245129 - Found CLEAR.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/CLEAR
-2025-04-15 06:57:47.245255 - Found CLEAR$.jcl (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/CLEAR$
-2025-04-15 06:57:47.245397 - Found CLS.jcl (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/CLS
-2025-04-15 06:57:47.245673 - Found LISTCSUM.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/LISTCSUM
-2025-04-15 06:57:47.245924 - Found LISTCSUO.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/LISTCSUO
-2025-04-15 06:57:47.246365 - Found RXDATE.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/RXDATE
-2025-04-15 06:57:47.247182 - Found VCX.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/VCX
-2025-04-15 06:57:47.247970 - Found VI.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/VI
-2025-04-15 06:57:47.248113 - Found VI#1.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/VI#1
-2025-04-15 06:57:47.248208 - Found VI#1H.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/VI#1H
-2025-04-15 06:57:47.248385 - Found alias VSAM to VI in CBT.V508.FILE942.PDS, moved to PDS/VSAM
+2025-04-16 01:40:20.296521 - Received CBT.V508.FILE942.PDS from FILE942.XMI 
+2025-04-16 01:40:20.297547 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:40:20.297611 - Found $$$VSAM.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/$$$VSAM
+2025-04-16 01:40:20.297655 - Found @FILE942.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/@FILE942
+2025-04-16 01:40:20.297703 - Found CLEAR.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/CLEAR
+2025-04-16 01:40:20.297749 - Found CLEAR$.jcl (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/CLEAR$
+2025-04-16 01:40:20.297797 - Found CLS.jcl (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/CLS
+2025-04-16 01:40:20.297848 - Found LISTCSUM.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/LISTCSUM
+2025-04-16 01:40:20.297898 - Found LISTCSUO.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/LISTCSUO
+2025-04-16 01:40:20.297946 - Found RXDATE.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/RXDATE
+2025-04-16 01:40:20.298050 - Found VCX.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/VCX
+2025-04-16 01:40:20.298125 - Found VI.rexx (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/VI
+2025-04-16 01:40:20.298187 - Found VI#1.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/VI#1
+2025-04-16 01:40:20.298237 - Found VI#1H.txt (text/plain) in CBT.V508.FILE942.PDS, moved to PDS/VI#1H
+2025-04-16 01:40:20.298348 - Found alias VSAM to VI in CBT.V508.FILE942.PDS, moved to PDS/VSAM
